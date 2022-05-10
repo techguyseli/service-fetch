@@ -47,19 +47,17 @@ Optional options:
 
 You can get the coordinates of the north east and south west points from [google maps](https://www.google.com/maps) or any geolocation/mapping service.
 
-The north east point is the upper right point of the map area you want to process, as follows:
+The north east point is the upper right point of the map area you want to process.
 
-............x<br>
-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-.............
+And the south west point is the lower left point of the same map area.
 
-And the south west point is the lower left point of the map area you want to process, as follows:
-
-.............<br>
-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-x............
+__________x <---- North east point  
+|.........|  
+|.........|  
+|.........|  
+x---------!  
+^  
+|  
+|  
+South west point
 
