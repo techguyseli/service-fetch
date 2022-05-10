@@ -43,6 +43,12 @@ Optional options:
         --help or -h : Print this help menu.
 ```
 
+## Usage
+
+```bash
+python3 servicefetch.py --apikey abcdefghijklmnopqrstuvwxyz1234 --nelat 34.015615 --nelon -6.837911 --swlat 34.027139 --swlon -6.817054
+```
+
 ## Note
 
 You can get the coordinates of the north east and south west points from [google maps](https://www.google.com/maps) or any geolocation/mapping service.
