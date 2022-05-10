@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a python project that scraps basic service data and image urls in a given map area, utilizing (rapidapi travel advisor api)[https://rapidapi.com/apidojo/api/travel-advisor/].
+This is a python project that scraps basic service data and image urls in a given map area, utilizing (rapidapi travel advisor api)[https://rapidapi.com/apidojo/api/travel-advisor] .
 
 ## Steps
 
