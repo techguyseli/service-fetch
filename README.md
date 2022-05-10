@@ -28,7 +28,7 @@ You should see something like this
 
 ```bash
 Usage:
-        python3 servfetch.py --option1 value1 --option2 value2. . .
+        python3 servicefetch.py --option1 value1 --option2 value2. . .
 
 Mandatory options:
         --apikey value : A RapidApi travel-advisor api key.
