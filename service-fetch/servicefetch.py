@@ -3,7 +3,7 @@
 
 ################ SCRIPT INFO ##################
 #                                             #
-# name : servfetch                            #
+# name : servicefetch                         #
 #                                             #
 # creation date : 09-05-2022                  #
 #                                             #
@@ -16,11 +16,6 @@
 #       travel-advisor api.                   #
 #                                             #
 # author : Selaiman Kassou                    #
-#                                             #
-# issues : The maximum number of services     #
-#       that the api can fetch per request is #
-#       30, but this is currently being       #
-#       remedied in servfetch V1.3.           #
 #                                             #
 ###############################################
 

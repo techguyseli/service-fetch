@@ -18,7 +18,7 @@ def print_usage(code=1, msg=None):
 
     # print usage
     print("Usage:")
-    print("\tpython3 servfetch.py --option1 value1 --option2 value2. . .\n")
+    print("\tpython3 servicefetch.py --option1 value1 --option2 value2. . .\n")
 
     # print mandatory arguments
     print("Mandatory options:")
