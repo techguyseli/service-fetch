@@ -35,7 +35,7 @@ def print_usage(code=1, msg=None):
     print("\t--help or -h : Print this help menu.")
 
     # exit with an error/success code
-    sys.exit(code)
+    exit(code)
 
 
 # function that returns a data structure filled with services' info 
