@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a python project that scraps basic service data and image urls in a given map area, utilizing (rapidapi travel advisor api)[https://rapidapi.com/apidojo/api/travel-advisor] .
+This is a python project that scraps basic service data and image urls in a given map area, utilizing [rapidapi's travel-advisor api](https://rapidapi.com/apidojo/api/travel-advisor).
 
 ## Steps
 
@@ -45,23 +45,23 @@ Optional options:
 
 ## Note
 
-You can get the coordinates of the north east and south west points from (google maps)[https://www.google.com/maps] or any geolocation/mapping service.
+You can get the coordinates of the north east and south west points from [google maps](https://www.google.com/maps) or any geolocation/mapping service.
 
 The north east point is the upper right point of the map area you want to process, as follows:
 
-............x
-.           .
-.           .
-.           .
-.           .
+............x<br>
+.           .<br>
+.           .<br>
+.           .<br>
+.           .<br>
 .............
 
 And the south west point is the lower left point of the map area you want to process, as follows:
 
-.............
-.           .
-.           .
-.           .
-.           .
+.............<br>
+.           .<br>
+.           .<br>
+.           .<br>
+.           .<br>
 x............
 
