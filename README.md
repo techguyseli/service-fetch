@@ -2,26 +2,26 @@
 
 ## Description
 
-This is a python project that scraps basic service data and image urls in a given map area, utilizing (rapidapi's travel-advisor api)[https://rapidapi.com/apidojo/api/travel-advisor/].
+This is a python project that scraps basic service data and image urls in a given map area, utilizing (rapidapi travel advisor api)[https://rapidapi.com/apidojo/api/travel-advisor/].
 
 ## Steps
 
 1) Clone the project
 
 ```bash
-$ git clone https://github.com/techguyseli/service-fetch
+git clone https://github.com/techguyseli/service-fetch
 ```
 
 2) Change the directory to service-fetch/service-fetch
 
 ```bash
-$ cd service-fetch/service-fetch
+cd service-fetch/service-fetch
 ```
 
 3) Run this script for help/usage
 
 ```bash
-$ python3 servicefetch.py -h
+python3 servicefetch.py -h
 ```
 
 You should see something like this
