@@ -43,7 +43,7 @@ Optional options:
         --help or -h : Print this help menu.
 ```
 
-## Usage
+## Basic usage
 
 For linux:
 
